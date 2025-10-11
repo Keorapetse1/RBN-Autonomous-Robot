@@ -135,4 +135,5 @@ A hands-on robotics enthusiast exploring embedded systems, wireless communicatio
 
 ![IMG_20251010_143951](https://github.com/user-attachments/assets/9909cac4-71df-4c80-aa1c-465c5789b5a6)
 
-
+### this is how the app will look
+![Screenshot_20251011_115544_appinventor_ai_theontate1_Assistive_bot_Screen1](https://github.com/user-attachments/assets/0b76ebcf-c406-4faa-a2e3-a11241587fba)
